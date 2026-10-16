@@ -1,0 +1,10 @@
+{
+  "name": "crash-test",
+  "version": "0.1.0",
+  "description": "Crash-tests a decision before you build it: four fixed roles draft in separate contexts, cross-review anonymously, and a chair merges on evidence and grounds the winner against your source.",
+  "author": {
+    "name": "Abdul Rahman P Z"
+  },
+  "homepage": "https://skills.caffeinity.com/crash-test/",
+  "repository": "https://github.com/arm-pz/crash-test"
+}
