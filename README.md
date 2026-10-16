@@ -73,4 +73,8 @@ context and every report is marked "Independence: shared context".
 
 ## License
 
-See `LICENSE`.
+MIT. See `LICENSE`.
+
+The idea of verifying a synthesis against the source before adopting it was seen in
+[STRML/cc-debate](https://github.com/STRML/cc-debate). No code or text from that project is copied
+here; the grounding pass in `skills/crash-test/SKILL.md` was written for this skill.
