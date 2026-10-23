@@ -1,6 +1,18 @@
 ---
 name: crash-test
-description: Crash-tests a decision before you build it. Four sub-agents (Pragmatist, Skeptic, Specialist, Contrarian) draft the same task in separate contexts, attack each other's drafts anonymously, and a chair merges what survived, logs unresolved dissent, and checks the winner's claims about existing files against the source before adopting it. Use when the user says "crash test this", "second opinion", "council", "review panel", "pressure-test this", "I don't trust this answer", or faces a costly decision (architecture, plan, positioning, debugging hypothesis). Lighter plan-debate mode (Skeptic vs Contrarian, ~5 calls) for a verdict before committing. Optional Operator seat reviews cost, rollout and reversibility (+1 call). Custom role files and per-member models supported. About 9 calls, no API keys, no server. Not for factual lookups, small edits, debugging an actual crash, or reviewing code for defects: it examines a decision, not a diff.
+description: >-
+  Crash-tests a decision before you build it. Four sub-agents (Pragmatist, Skeptic,
+  Specialist, Contrarian) draft the same task in separate contexts, attack each other's
+  drafts anonymously, and a chair merges what survived, logs unresolved dissent, and
+  checks the winner's claims about existing files against the source before adopting it.
+  Use when the user says "crash test this", "second opinion", "council", "review panel",
+  "pressure-test this", "I don't trust this answer", or faces a costly decision
+  (architecture, plan, positioning, debugging hypothesis). Lighter plan-debate mode
+  (Skeptic vs Contrarian, ~5 calls) for a verdict before committing. Optional Operator
+  seat reviews cost, rollout and reversibility (+1 call). Custom role files and
+  per-member models supported. About 9 calls, no API keys, no server. Not for factual
+  lookups, small edits, debugging an actual crash, or reviewing code for defects: it
+  examines a decision, not a diff.
 ---
 
 # Crash test
