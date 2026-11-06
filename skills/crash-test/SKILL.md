@@ -13,6 +13,7 @@ description: >-
   per-member models supported. About 9 calls, no API keys, no server. Not for factual
   lookups, small edits, debugging an actual crash, or reviewing code for defects: it
   examines a decision, not a diff.
+version: 1.0.0
 ---
 
 # Crash test
