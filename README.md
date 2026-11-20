@@ -43,6 +43,14 @@ Rejected and why, Grounding, Dissent log, Confidence — so runs are comparable 
 Two knobs if you want them: drop role cards in a `crash-test-roles/` folder to replace a member or
 fill the fifth seat, and where your host allows it, give each member a different model.
 
+## Test results
+
+- **First real-world run on a business decision:** 2026-11-18, a choice of offer and buyer for an AI
+  sales team. Mixed models, 10 calls including one diversity rerun. Decision: Merged, confidence
+  medium. Cross-review caught a cross-domain error made by one member (3 of 4 reviewers) and an
+  under-powered kill threshold (2 of 4). The record, with suggested changes to the skill, is in
+  [runs/2026-11-18-offer-and-buyer-decision.md](runs/2026-11-18-offer-and-buyer-decision.md).
+
 ## What it is not
 
 The four members are one model in four contexts, so they are independent in context, **not** in
