@@ -46,6 +46,11 @@ answer "why us".
    durations and the "no published prices or case studies" claim against pages fetched earlier in the
    session (confirmed). It marked platform-rule and price-band claims unverifiable.
 
+## Deviations from the skill
+
+- **Cross-review inputs were condensed.** Each reviewer got the other three drafts as restatements the chair wrote (about 120–200 words each), with every recommendation, number and caveat kept, not the drafts word for word. Reviewers were still anonymous (Draft A/B/C, no role names). A grader should treat this as a gap in step 3.
+- **No verdict is claimed here.** The owner grades runs (PASS / PARTIAL / FAIL); this record is the evidence for that grading.
+
 ## Decision
 
 **Merged**, confidence **medium**. The full report was given to the user in the session.
